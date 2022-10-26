@@ -1,14 +1,5 @@
-# Week 10 Review Pair Exercise
+# Math practice
 
-## Context
-
-You will be reimplementing the second pair-programming assignment from this module except, you will now be implementing it in React.
-
-You just landed a role as a junior developer for a new eLearning startup called LearnIT.
-
-Your first project is to build an application that helps students practice mathematical problem sets. The initial version of this application focuses on multiplication practice.
-
-Before you start, be sure to review the provided HTML and CSS and look at the mockups.
 
 ## Application overview
 
