@@ -1,7 +1,6 @@
 # Math practice
 
 
-## Application overview
 
 When the application loads, the student is given a problem set with ten multiplication problems. They'll see the problem they need to solve, how many problems they've completed, their score, and four possible answers. At any time during the problem set, the student can start over by clicking "Start Over."
 
