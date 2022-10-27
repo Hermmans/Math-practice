@@ -90,16 +90,3 @@ const answers = shuffleArray([81,1,77,45]);
 ## Notes
 
 - The application should start when the DOM loads.
-
-## Optional challenge
-
-If you finish early or want a challenge, this is for you.
-
-LearnIT wants to release a new version of the application that allows students to practice addition, subtraction, multiplication, or division. This means that you'd need to update the application to show a new screen that asks students to pick the math operations they want to work on.
-
-![Extra Challenge](./mockups/challenge.png)
-
-Each problem set must still consist of ten problems, but now, they'd include one or more operations based on the student's selection.
-
-You probably hard-coded the operand `*` into the initial version of the application. How would you update it to allow students to choose multiple math operations?
-
